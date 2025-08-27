@@ -28,7 +28,7 @@ I am a passionate and motivated Computer Engineering graduate with a strong inte
 
 - **Student Management System (Java)**  
   Console-based CRUD system for managing student records  
-  [View Project](https://github.com/yourusername/StudentManagementSystem)
+  [View Project]([https://github.com/yourusername/StudentManagementSystem)](https://github.com/pavanrakibe/Student_Management_System)
 
 - **Simple Calculator (Java)**  
   Basic calculator for arithmetic operations  
