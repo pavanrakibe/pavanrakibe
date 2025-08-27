@@ -53,7 +53,7 @@ I am a passionate and motivated Computer Engineering graduate with a strong inte
 ## 📫 Contact Me
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/your-link)
-- 📧 Email: pavanrakibe29@gmail.com
+- 📧 Email: [pavanrakibe29@gmail.com](mailto:pavanrakibe29@gmail.com)
 
 ---
 
